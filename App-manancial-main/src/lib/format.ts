@@ -27,8 +27,6 @@ export const TIPO_EQUIPAMENTO: Record<TipoEquipamento, string> = {
 };
 export const ROLES: Record<AppRole, string> = {
   admin: "Administrador",
-  tecnico: "Técnico",
-  atendimento: "Atendimento",
 };
 export const FORMAS_PAGAMENTO = ["Pix", "Dinheiro", "Cartão", "Transferência", "Outro"];
 
